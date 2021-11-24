@@ -7,7 +7,7 @@ An interactive short fiction, which assigns a value to your choices and then sco
 
 ## Goals for Version 1
 
-a few paragraphs and a simple choice system which results in the finale and a final s=numerical score
+a few paragraphs and a simple choice system which results in the finale and a final numerical score
 
 ## Libraries / Other Technology Needed
 
