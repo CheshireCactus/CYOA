@@ -1,18 +1,20 @@
 # CYOA
 # My Project Name
-
+WORK IN PROGRESS
 ## Project description
 
-Exactly what your project will do -- try to describe it from the user's perspective.
+An interactive short fiction, which assigns a value to your choices and then scores accordingly, resulting in a judgement. ie, you win / you have been dissolved in acid / you are a loser etc. 
 
 ## Goals for Version 1
 
-What is "in scope" for Version 1.0 -- what's the simplest possible version of your project?
+a few paragraphs and a simple choice system which results in the finale and a final s=numerical score
 
 ## Libraries / Other Technology Needed
 
-Which Python libraries will you use? Do they have good documentation / tutorials?
+No idea. 
 
 ## Risks
 
-What are the risks -- things that would stop your project from getting completed? For each risk, think about how you could mitigate it.
+Either it will be too complex or i will run out of time.
+to combat this, i need to keep it as simple as possible at the beginning, and to FIND THE TIME.
+
